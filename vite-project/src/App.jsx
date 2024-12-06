@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Chai/>
-      <h1>chai aur react</h1>
+      <h1>Tailwind test</h1>
       <p>test para</p>
 </>
   )
